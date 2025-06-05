@@ -28,7 +28,7 @@ This API allows users to register, log in, and perform CRUD operations on patien
 
 3. **Create a .env file in the project root with the following variables:**
 
-    DATABASE_URL=your_postgres_database_url
+    DATABASE_URL=your_postgres_database_url /n
     JWT_SECRET=your_jwt_secret_key
 
 
