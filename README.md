@@ -38,6 +38,7 @@ This API allows users to register, log in, and perform CRUD operations on patien
 
 ---
 
-Author
+**Author**
+
 Developed by Bibhu Ranjan Mohanty
 
