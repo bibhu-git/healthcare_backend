@@ -19,7 +19,7 @@ This API allows users to register, log in, and perform CRUD operations on patien
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
+   git clone github.com/bibhu-git/healthcare_backend/
    cd healthcare_backend
 
 2. **Install dependencies**
