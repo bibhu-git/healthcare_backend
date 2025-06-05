@@ -35,3 +35,9 @@ This API allows users to register, log in, and perform CRUD operations on patien
 4. **Start the server**
 
     npm start
+
+---
+
+Author
+Developed by Bibhu Ranjan Mohanty
+
